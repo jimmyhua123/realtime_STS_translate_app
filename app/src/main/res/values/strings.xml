@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Realtime STS</string>
+    <string name="permission_required">需要音訊與藍牙權限才能運作。</string>
+    <string name="notification_channel_name">Realtime STS 前景服務</string>
+    <string name="notification_channel_description">持續維持藍牙通話與雲端串流。</string>
+    <string name="notification_title">Realtime STS 正在執行</string>
+    <string name="notification_text">維持 SCO/HFP 低延遲語音翻譯</string>
+</resources>
